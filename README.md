@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding    
 - 🌱 I’m currently learning ...c , c++, javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...on gmail = chavann717@gmail.com
 
 <!---
 nikhil3113/nikhil3113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
