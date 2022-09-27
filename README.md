@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nikhil Chavan
-  <h1> Nikhil </h1>
 - 👀 I’m interested in Codingg    
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me on gmail: chavann717@gmail.com
