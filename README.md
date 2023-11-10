@@ -1,7 +1,7 @@
 💫 About Me:
 ============
 
-👋 Hi, I’m Nikhil Chavan<br>👀 I’m interested in Codingg<br>🌱 I’m currently learning Web Development<br>📫 How to reach me on gmail: [chavann717@gmail.com](mailto:chavann717@gmail.com)
+👋 Hi, I’m Nikhil Chavan<br>👀 I’m interested in Coding<br>🌱 I’m currently learning Web Development<br>📫 How to reach me on gmail: [chavann717@gmail.com](mailto:chavann717@gmail.com)
 
 ### Languages:
 
