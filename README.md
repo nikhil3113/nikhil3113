@@ -1,9 +1,9 @@
 💫 About Me:
 ============
 
-👋 Hi, I'm Nikhil Chavan
-👀 I'm passionate about coding and currently focused on Web Development
-🌱 I'm actively learning and expanding my skills in the world of web technologies
+👋 Hi, I'm Nikhil Chavan <br>
+👀 I'm passionate about coding and currently focused on Web Development <br>
+🌱 I'm actively learning and expanding my skills in the world of web technologies <br>
 📫 Reach me via email: chavann717@gmail.com
 
 ### Languages:
