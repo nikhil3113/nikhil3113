@@ -2,8 +2,7 @@
 ============
 
 👋 Hi, I'm Nikhil Chavan <br>
-👀 I'm passionate about coding and currently focused on Web Development <br>
-🌱 I'm actively learning and expanding my skills in the world of web technologies <br>
+🌱 Learning and expanding my skills in the world of tech <br>
 📫 Reach me via email: chavann717@gmail.com
 
 ### Languages:
